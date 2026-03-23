@@ -1,0 +1,7 @@
+Voice activated Booking
+Live map-based car availability
+Fuel cost estimator
+Electric vehicle filter with charging station map
+Car popularity score
+Membership tires perk
+Late return penalty estimator

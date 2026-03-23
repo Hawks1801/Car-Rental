@@ -1,0 +1,120 @@
+*{
+    text-decoration: none;
+}
+body{
+    background-image: url(../image/SedanBackground.jpg);
+}
+.navdiv {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav.navbar {
+    position: sticky;
+    
+}
+ 
+button.login {
+    padding: 7px;
+    margin: 14px;
+    width: 86px;
+}
+button.login {
+    font: message-box;
+    border-radius: 10px;
+    background-color: transparent;
+    cursor: pointer;
+}
+button.login:hover {
+    background-color: blue;
+    color:aliceblue;
+}
+h3.about {
+    color: black;
+}
+h3.home {
+    margin-left: 790px;
+}
+h3.home {
+    color: black;
+}
+button.login {
+    color: black;
+}
+h3.about:hover {
+    border-bottom: solid;
+    cursor: pointer;
+}
+h3.home:hover {
+    border-bottom: solid;
+    transform: scale(1.20);
+}
+img {
+    height: 72px;
+}
+.cars {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin-top: 24px;
+    margin-left: 8px;
+    text-align: center;
+    font-family: arial;
+  }
+.card:hover {
+  
+    color: white;
+    transform: scale(1.07);
+    box-shadow: 4px 4px 8px 4px white;
+}
+.flex-section1 {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+.flex-section2 {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+footer {
+    display: flex;
+    justify-content: space-between;
+}
+.footer {
+    background-color: black;
+    color: antiquewhite;
+    width: 1217px;
+    margin-left: -8px;
+    height: 177px;
+}
+li{
+    list-style: none;
+}
+.location {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: -15px;
+}
+.contact {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-right: 33px;
+    margin-top: -15px;
+}
+.email {
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 31px;
+    margin-top: -19px;
+}
+.name {
+    margin-left: 16px;
+}
